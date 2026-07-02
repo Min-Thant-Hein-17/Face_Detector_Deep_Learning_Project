@@ -3,3 +3,4 @@ This repository is for the practice of deep learning project, Face detection. We
 
 Note: https://www.kaggle.com/code/uditsharma72/real-vs-fake-faces-prediction-cnn/input?select=real  
 
+Deployment Hugging Face: https://huggingface.co/new-space 
